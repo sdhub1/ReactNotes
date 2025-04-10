@@ -6,7 +6,7 @@ This guide will help you set up a React project using **Vite**, **Tailwind CSS**
 
 ## Step 1: Create a New React App with Vite
    
-   1. Go to [https://react.dev](https://react.dev)
+   1. Go to [React Official website](https://react.dev)
    2.  Navigate to:
       - `Learn` → `Installation` → `From Scratch` → `Vite`
    3. Run the following command in **your desired folder**:
@@ -36,7 +36,7 @@ This guide will help you set up a React project using **Vite**, **Tailwind CSS**
    
 ## Step 2: Install and Set Up Tailwind CSS
 
-   1. Go to [https://tailwindcss.com/] (https://tailwindcss.com/)
+   1. Go to [Official Tailwind Css website](https://tailwindcss.com/)
    2.  Navigate to:
       - `Docs` → `Installation` → `Using Vite` + `Follow the given steps till step 4`
         
@@ -89,7 +89,7 @@ This guide will help you set up a React project using **Vite**, **Tailwind CSS**
  
    ***OR***
    
-  1.  go to https://reactrouter.com and navigate: `Docs`->`Delarative`-> `Installation`
+  1.  go to [React-Router Official website](https://reactrouter.com) and navigate: `Docs`->`Delarative`-> `Installation`
   2. Next install React Router from npm:
     ```bash
       npm i react-router
